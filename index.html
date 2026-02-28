@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <meta name="theme-color" content="#071021" />
+  <title>FlowPitch</title>
+  <link rel="preconnect" href="https://cdnjs.cloudflare.com" crossorigin>
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+<body>
+  <!-- Background aurora layers behind everything -->
+  <div class="bgLayer bgLayer-a" aria-hidden="true"></div>
+  <div class="bgLayer bgLayer-b" aria-hidden="true"></div>
+
+  <header id="topNav" class="topNav" role="banner">
+    <div class="navInner">
+      <div class="brand">
+        <span id="brandTitle" class="brandTitle" aria-label="Deck title"></span>
+      </div>
+      <div class="navActions" role="navigation" aria-label="Slide controls">
+        <button id="prevBtn" class="navBtn" type="button" aria-label="Previous slide">Prev</button>
+        <button id="nextBtn" class="navBtn primary" type="button" aria-label="Next slide">Next</button>
+        <div class="spacer"></div>
+        <button id="exportPdfBtn" class="navBtn outline" type="button" aria-label="Export PDF">Export PDF</button>
+      </div>
+    </div>
+  </header>
+
+  <div id="topProgress" aria-hidden="true"><div id="topProgressBar"></div></div>
+
+  <main id="deck" class="deck" tabindex="0" aria-live="polite" aria-label="Slide deck">
+    <!-- Slides injected here by app.js -->
+  </main>
+
+  <nav id="sideDots" class="sideDots" aria-label="Slide progress"></nav>
+
+  <script src="./app.js" defer></script>
+</body>
+</html>

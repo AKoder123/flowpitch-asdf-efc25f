@@ -1,0 +1,140 @@
+{
+  "meta": {
+    "deckId": "asdf",
+    "title": "Stephen Rando",
+    "theme": "Blue"
+  },
+  "slides": [
+    {
+      "type": "title",
+      "headline": "Stephen Rando",
+      "subheadline": "Digital Channels & Platforms"
+    },
+    {
+      "type": "section",
+      "headline": "Frontline Insight"
+    },
+    {
+      "type": "content",
+      "headline": "17+ years with bankers and brokers",
+      "bullets": [
+        "Retail, Commercial, and Wealth segments supported.",
+        "Understand workflows, friction and enablement.",
+        "Tools must accelerate daily work.",
+        "Translate strategy into iterative value."
+      ],
+      "note": "17+ years supporting bankers"
+    },
+    {
+      "type": "content",
+      "headline": "Enterprise transformation delivery",
+      "bullets": [
+        "Led CRM, lending, KYC, regulatory programs.",
+        "Managed complex cross-divisional dependencies.",
+        "Drive disciplined execution in ambiguity.",
+        "Ensure governance clarity and alignment."
+      ]
+    },
+    {
+      "type": "content",
+      "headline": "What this role requires",
+      "bullets": [
+        "End-to-end ownership.",
+        "Clear investment prioritisation.",
+        "Executive decision support.",
+        "Scaled delivery with risk discipline.",
+        "Operate for COO-level outcomes."
+      ]
+    },
+    {
+      "type": "section",
+      "headline": "Strengths"
+    },
+    {
+      "type": "content",
+      "headline": "Enterprise-scale channel execution",
+      "bullets": [
+        "Accountable for scope and sequencing.",
+        "Manage finances and benefits realisation.",
+        "Maintain regulatory compliance end-to-end.",
+        "Drive OKRs and milestone cadence.",
+        "Transparent risks, issues and dependencies."
+      ]
+    },
+    {
+      "type": "content",
+      "headline": "Deep frontline understanding",
+      "bullets": [
+        "Practical, not abstract transformation.",
+        "Know turnaround pressures and realities.",
+        "Seamless integration into banker workflows.",
+        "Solutions improve productivity and outcomes."
+      ]
+    },
+    {
+      "type": "content",
+      "headline": "Executive governance and decision support",
+      "bullets": [
+        "Operated in high-stakes transformations.",
+        "Balance speed, risk, and control.",
+        "Clarify trade-offs and dependencies.",
+        "Enable fast, confident decisions.",
+        "Lead through clarity and alignment."
+      ]
+    },
+    {
+      "type": "section",
+      "headline": "Execution Approach"
+    },
+    {
+      "type": "content",
+      "headline": "First 90 days focus",
+      "bullets": [
+        "Immerse with bankers and brokers.",
+        "Validate pain points and measures.",
+        "Agree outcomes, metrics, decision rights.",
+        "Align Tech, Product, Finance, Risk.",
+        "Establish cadence, trust, transparency."
+      ]
+    },
+    {
+      "type": "content",
+      "headline": "Performance and ways of working",
+      "bullets": [
+        "Track delivery predictability and benefits.",
+        "Monitor adoption and risk profile.",
+        "Uplift agile maturity where needed.",
+        "Clarify accountability across squads.",
+        "Improve release sequencing, coordination."
+      ]
+    },
+    {
+      "type": "content",
+      "headline": "12–24 month channel blueprint",
+      "bullets": [
+        "Roadmap for banker productivity.",
+        "Drive digital adoption at scale.",
+        "Ensure regulatory resilience.",
+        "Plan migration milestones.",
+        "Secure executive endorsement.",
+        "Align funding to priorities."
+      ]
+    },
+    {
+      "type": "section",
+      "headline": "Motivation"
+    },
+    {
+      "type": "closing",
+      "headline": "Thank you",
+      "subheadline": "What motivates me",
+      "bullets": [
+        "Purposeful ownership, measurable outcomes.",
+        "Better frontline operations, daily.",
+        "Serve customers faster with confidence.",
+        "Thrive in complex enterprise environments.",
+        "Alignment, influence, disciplined execution."
+      ]
+    }
+  ]
+}
